@@ -43,7 +43,8 @@ continuously learning, wanting to help the community
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: 
 bilibili:sun12yyds 
-outlook:sun12yyds@hotmail.com  
+outlook:sun12yyds@hotmail.com 
+
 discord:sun12yyds
 
 <p align="center">
