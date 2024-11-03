@@ -45,7 +45,27 @@ continuously learning, wanting to help the community
 
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px"  alt=""/> I'm pretty good at anything about C++ and i'am happy to help 
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: 
+<a href="https://twitter.com/vaporjawn">
+  <img align="left" alt="Victor Williams | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/victorwilliams719/">
+  <img align="left" alt="Victor's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/todoslosdias">
+  <img align="left" alt="Victor's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.reddit.com/user/todoslosdays/">
+  <img align="left" alt="Victor's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://leetcode.com/vaporjawn/">
+  <img align="left" alt="Vcitor's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.instagram.com/vaporjawn">
+  <img align="left" alt="Victor's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
+<br /> How to reach me: 
 bilibili:sun12yyds
 
 outlook:sun12yyds@hotmail.com 
