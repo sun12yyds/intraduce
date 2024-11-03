@@ -43,6 +43,9 @@ continuously learning, wanting to help the community
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about 
 
+Any questions about C++
+
+How to reach me:
 <a href="https://twitter.com/vaporjawn">
   <img align="left" alt="Victor Williams | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
