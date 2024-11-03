@@ -43,8 +43,6 @@ continuously learning, wanting to help the community
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about 
 
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px"  alt=""/> I'm pretty good at anything about C++ and i'am happy to help 
-
 <a href="https://twitter.com/vaporjawn">
   <img align="left" alt="Victor Williams | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -61,10 +59,11 @@ continuously learning, wanting to help the community
   <img align="left" alt="Vcitor's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://www.instagram.com/vaporjawn">
-  <img align="left" alt="Victor's instagram" width="22px" 
+  <img align="left" alt="Victor's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <br />
-<br /> How to reach me: 
+<br />How to reach me: 
 bilibili:sun12yyds
 
 outlook:sun12yyds@hotmail.com 
