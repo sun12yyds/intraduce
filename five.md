@@ -33,7 +33,7 @@ continuously learning, wanting to help the community
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/functional.png" height="30px"  alt=""/> Web editing
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px"  alt=""/> ML
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I'm learning to build a mac virtual machine with vmarm
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I'm learning to build a mac virtual machine with vmwarm
 
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px"  alt=""/> Suggestions are welcome
 
@@ -45,7 +45,9 @@ continuously learning, wanting to help the community
 
 Any questions about C++
 
+
 How to reach me:
+
 <a href="https://twitter.com/vaporjawn">
   <img align="left" alt="Victor Williams | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
