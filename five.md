@@ -156,3 +156,10 @@ go         █░░░░░░░░░░░░░░░░░░░░░░
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CombiningIdeas&count_private=true&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun12yyds)
+
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
+  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg"  alt=""/>
+</p>
+
