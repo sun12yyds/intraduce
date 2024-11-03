@@ -104,6 +104,6 @@ c++        ██████████████████░░░░░
 python     █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 Other      █░░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 Prolog     █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Groovy     █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+go         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CombiningIdeas&count_private=true&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
