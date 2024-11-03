@@ -17,12 +17,12 @@ continuously learning, wanting to help the community
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%" alt=""/>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on 
 
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px"  alt=""/>  Windows & Virtualization
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px"  alt=""/>  Easy C++ game developed with some friends
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning 
 
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px"  alt=""/> Complex animations and Gesture Handling on React-Native
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/unity.png" height="30px"  alt=""/> Unity 'n' Game Design
@@ -33,13 +33,13 @@ continuously learning, wanting to help the community
 
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px"  alt=""/> Suggestions are welcome
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I’m looking for help with ...
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I’m looking for help with 
 
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px"  alt=""/> any weird or interesting idea
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about ...
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about 
 
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px"  alt=""/> anything, I am really a talkative person, happy to help 
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px"  alt=""/> anything ，I'm pretty good at C++ issues happy to help 
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 
