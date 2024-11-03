@@ -52,6 +52,8 @@ outlook:sun12yyds@hotmail.com
 
 discord:sun12yyds
 
+funfect😁:vmmarm and windows system
+
 <p align="center">
   <a href="https://twitter.com/naiman_alex">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;"  alt=""/>
