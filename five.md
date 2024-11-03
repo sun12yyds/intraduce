@@ -41,7 +41,10 @@ continuously learning, wanting to help the community
 
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px"  alt=""/> I'm pretty good at anything about C++ and i'am happy to help 
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: outlook:sun12yyds@hotmail.com  bilibili:sun12yyds discord:sun12yyds
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: 
+bilibili:sun12yyds 
+outlook:sun12yyds@hotmail.com  
+discord:sun12yyds
 
 <p align="center">
   <a href="https://twitter.com/naiman_alex">
